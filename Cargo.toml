@@ -1,0 +1,12 @@
+[package]
+name = "worm2"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75.0"
+
+
+[dependencies]
+egui   = "0.25.0"
+eframe = "0.25.0"
+rand   = "0.8.5"
+ears   = "0.8.0"
